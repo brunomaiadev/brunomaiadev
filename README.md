@@ -1,3 +1,4 @@
+Bom dia, tarde e noite, bem vindo ao meu perfil do github, espero que goste dos meus projetos, sou facinado pelo javascript, mas também programo em outras linguagens para discontrair.
 <div align="center">
   <a href="https://github.com/brunomaiadev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunomaiadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
